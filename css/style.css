@@ -19,8 +19,13 @@
 body{
 	background: var(--bg-color);
 	color: var(--text-color);
+	max-width: 100%;
+	overflow-x: hidden;
 }
-
+html{
+	max-width: 100%;
+	overflow-x: hidden;
+}
 header{
 	position: fixed;
 	top: 0;
