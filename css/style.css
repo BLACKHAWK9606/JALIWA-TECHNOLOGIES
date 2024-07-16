@@ -215,11 +215,6 @@ header.sticky{
 	font-weight: 600;
 	margin-bottom: 8px;
 }
-.container-box:hover{
-	box-shadow: 5px 30px 56.1276px rgb(55 55 55 / 12%);
-	border: 1px solid transparent;
-	transform: translateY(-3px);
-}
 
 .title{
 	text-align: center;
@@ -353,11 +348,6 @@ header.sticky{
 	bottom: 30px;
 	letter-spacing: 2px;
 	margin: 5px 0;
-}
-.col-content img:hover{
-	filter: brightness(100%) hue-rotate(45deg);
-	transform: scale(1.04);
-	cursor: pointer;
 }
 
 .newsletter{
